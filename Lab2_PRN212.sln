@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2_PRN212", "Lab2_PRN212\Lab2_PRN212.csproj", "{C4F8A408-F21D-4603-A23B-F1BCB0CFCC4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhoaNA.Models", "Models\KhoaNA.Models.csproj", "{AA77554A-D40E-4648-B5AC-54FE5566A878}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C4F8A408-F21D-4603-A23B-F1BCB0CFCC4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4F8A408-F21D-4603-A23B-F1BCB0CFCC4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4F8A408-F21D-4603-A23B-F1BCB0CFCC4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA77554A-D40E-4648-B5AC-54FE5566A878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA77554A-D40E-4648-B5AC-54FE5566A878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA77554A-D40E-4648-B5AC-54FE5566A878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA77554A-D40E-4648-B5AC-54FE5566A878}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
