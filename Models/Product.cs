@@ -44,11 +44,11 @@ namespace KhoaNA.Models
 
 		public void Display()
 		{
-			if(Discount != 0)
+			if (Discount != 0)
 			{
-				Console.WriteLine($"Name: {Name} ||Price: {Price} ||Discount: {Discount}");
+				Console.WriteLine($"Name: {Name}	||Price: {Price}	||Discount: {Discount}");
 			}
-            else Console.WriteLine($"Name: {Name} ||Price: {Price} ||No Discount");
+			else Console.WriteLine($"Name: {Name}	||Price: {Price}	||No Discount");
 		}
 
 	}
